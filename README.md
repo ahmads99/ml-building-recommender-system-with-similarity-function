@@ -29,8 +29,8 @@ Sebuah ****Content-Based Film Recommendation System**** yang dibangun menggunaka
    ```
 
 3. **Unduh model dan file data**:
-   - Place `best_knn_model.pkl`, `count_vectorizer.pkl`, `feature_df.pkl`, and `base_df.pkl` in the `model/` directory.
-   - These files are generated from the preprocessing and modeling script (see [Modeling Notebook](#)).
+   - Tempatkan `best_knn_model.pkl`, `count_vectorizer.pkl`, `feature_df.pkl`, dan `base_df.pkl` di direktori `model/`.
+   - File-file ini dihasilkan dari skrip praproses dan pemodelan (lihat [Buku Catatan Pemodelan](#)).
 
 4. **Run the app**:
    ```bash
