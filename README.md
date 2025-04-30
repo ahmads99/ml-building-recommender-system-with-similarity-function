@@ -55,9 +55,6 @@ Sebuah ****Content-Based Film Recommendation System**** yang dibangun menggunaka
 - `directors_writers.csv`: Informasi sutradara dan penulis.
 - `actor_name.csv`: Nama aktor dan judul film terkait.
 
-## License
-This project is licensed under the MIT License.
-
-## Acknowledgments
+## Knowledgments
 - Built with ❤️ using Streamlit and Scikit-learn.
 - Thanks to DQLab for providing the datasets.
