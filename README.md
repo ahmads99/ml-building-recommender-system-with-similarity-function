@@ -1,3 +1,8 @@
+# Dashboard Visualisasi 
+[Lihat dashboard](https://lookerstudio.google.com/reporting/9d0d3db8-5092-4780-9bcc-4cd6f460f421) 
+
+![image](https://github.com/user-attachments/assets/15d4ace1-20e0-457d-b2dd-a3894ccda33a)
+
 # Sistem Rekomendasi Film
 
 Sebuah ****Content-Based Film Recommendation System**** yang dibangun menggunakan Streamlit dan algoritma K-Nearest Neighbors (KNN) untuk merekomendasikan film berdasarkan fitur seperti judul, genre, aktor, sutradara, dan penulis.
